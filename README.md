@@ -30,7 +30,7 @@ An analysis of online sales performance, customer behaviour, satisfaction, and i
 7. **Metrics by Outlet Type**: Comprehensive view of all KPIs by outlet type.
 
 ### Final PowerBI Results
-<img src="https://github.com/VasanthM27/SQL-PowerBI-Project/blob/main/page2hr%20report.png"/></br>
+<img src="https://github.com/VasanthM27/consumer-behavior-analytics/blob/main/Folder/Capture.PNG"/></br>
 
 ## Key Insights and Business Impact
 - **Customer Preferences**: Insights on **fat content** and **item types** guide targeted promotions and inventory strategy.
