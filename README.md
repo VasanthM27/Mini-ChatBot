@@ -29,6 +29,9 @@ An analysis of online sales performance, customer behaviour, satisfaction, and i
 6. **Sales by Location**: Assessed geographic distribution of sales.
 7. **Metrics by Outlet Type**: Comprehensive view of all KPIs by outlet type.
 
+### Final PowerBI Results
+<img src="https://github.com/VasanthM27/SQL-PowerBI-Project/blob/main/page2hr%20report.png"/></br>
+
 ## Key Insights and Business Impact
 - **Customer Preferences**: Insights on **fat content** and **item types** guide targeted promotions and inventory strategy.
 - **Outlet Performance**: Metrics segmented by **outlet type, location, and size** highlight strengths and areas for improvement.
